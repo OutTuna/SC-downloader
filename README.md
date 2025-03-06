@@ -18,4 +18,4 @@ Example Eng Menu:
 
 In future want to add:
 
-1. Mix this loader with artwork
+1. Mix this loader with artwork ✅
