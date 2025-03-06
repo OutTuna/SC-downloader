@@ -11,7 +11,11 @@ Installation Guide:
 
 
 Menu:
+
 ![image](https://github.com/user-attachments/assets/f5d4753b-c895-4d4c-82e8-e845ba3a0b8f)
+
+
+
 
 
 1.Download Avatar
