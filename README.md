@@ -4,10 +4,10 @@ SoundCloud Avatars and Banners downloader
 
 Installation Guide:
 
-1. Get TamperMonkey(or smth like tamper) on your browser
-2. Get a .js file with needed localization from release
-3. And drop it in TamperMonkey
-4. Enjoy.
+1. Установите TamperMonkey(или что-то другое) на ваш браузер
+2. Скачайте .js-файл с нужной для вас локализацией из Release ветки
+3. Закиньте файл в TamperMonkey(или что-то другое)
+4. Наслаждайтесь.
 
 --------------------
 Ru Menu:
@@ -16,9 +16,8 @@ Ru Menu:
 
 Eng Menu:
 
-![image](https://github.com/user-attachments/assets/74df3599-98cb-4170-8a97-6aba9e06deee)
+U can see this menu in eng branch
 
+В будущем планируется
 
-In future want to add:
-
-1. Mix this loader with artwork
+1. Связать данный скачиватель с скачкой обложек
