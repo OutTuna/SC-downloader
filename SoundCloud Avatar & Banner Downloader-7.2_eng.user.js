@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoundCloud Avatar & Banner Downloader
 // @namespace    http://tampermonkey.net/
-// @version      7._rus
+// @version      7.2_rus
 // @description  Add a button to download SoundCloud avatars, banners, and covers
 // @author       fellfromheaven
 // @match        https://soundcloud.com/*
