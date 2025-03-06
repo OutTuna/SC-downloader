@@ -76,17 +76,17 @@
             return btn;
         }
 
-        menu.appendChild(createButton('📷 Скачать аватар', async () => {
+        menu.appendChild(createButton('📷 Download Avatar', async () => {
             const avatarUrl = getAvatarUrl();
             if (avatarUrl) await downloadImage(avatarUrl, 'avatar.jpg');
         }));
 
-        menu.appendChild(createButton('🖼️ Скачать баннер', async () => {
+        menu.appendChild(createButton('🖼️ Download Banner', async () => {
             const bannerUrl = getBannerUrl();
             if (bannerUrl) await downloadImage(bannerUrl, 'banner.jpg');
         }));
 
-        menu.appendChild(createButton('📂 Скачать всё', async () => {
+        menu.appendChild(createButton('📂 Download All', async () => {
             const avatarUrl = getAvatarUrl();
             const bannerUrl = getBannerUrl();
             if (avatarUrl) await downloadImage(avatarUrl, 'avatar.jpg');
