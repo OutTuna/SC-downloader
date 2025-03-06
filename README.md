@@ -24,3 +24,4 @@ In future want to add:
 
 1. Mix this loader with artwork ✅
 2. Downloader Audio ✅
+3. RPC for Discord
