@@ -1,5 +1,5 @@
-# SC-downloader
-SoundCloud Avatars and Banners downloader
+# SoundCloud Ultimate Downloader
+SoundCloud Avatars, Banners, and tracks downloader
 
 
 Installation Guide:
