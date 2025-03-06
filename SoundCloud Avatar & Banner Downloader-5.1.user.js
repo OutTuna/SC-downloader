@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SoundCloud Avatar & Banner Downloader
 // @namespace    http://tampermonkey.net/
-// @version      5.1
+// @version      5.1_rus
 // @description  Add a button to download SoundCloud avatars and banners
 // @author       fellfromheaven
 // @match        https://soundcloud.com/*
@@ -76,17 +76,17 @@
             return btn;
         }
 
-        menu.appendChild(createButton('📷 Download Avatar', async () => {
+        menu.appendChild(createButton('📷 Скачать аватар', async () => {
             const avatarUrl = getAvatarUrl();
             if (avatarUrl) await downloadImage(avatarUrl, 'avatar.jpg');
         }));
 
-        menu.appendChild(createButton('🖼️ Download Banner', async () => {
+        menu.appendChild(createButton('🖼️ Скачать баннер', async () => {
             const bannerUrl = getBannerUrl();
             if (bannerUrl) await downloadImage(bannerUrl, 'banner.jpg');
         }));
 
-        menu.appendChild(createButton('📂 Download All', async () => {
+        menu.appendChild(createButton('📂 Скачать всё', async () => {
             const avatarUrl = getAvatarUrl();
             const bannerUrl = getBannerUrl();
             if (avatarUrl) await downloadImage(avatarUrl, 'avatar.jpg');
