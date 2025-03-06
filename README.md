@@ -9,6 +9,13 @@ Installation Guide:
 3. And drop it in TamperMonkey
 4. Enjoy.
 
+Гайд на установку:
+
+1. Скачать TamperMonkey(или что-то похожее) на ваш браузер
+2. Скачать .js файл с нужной вам локализацией, с раздела Release
+3. Закинуть файл в расширение(TamperMonkey)
+4. Наслаждайтесь
+
 --------------------
 
 Example Eng Menu:
@@ -25,3 +32,4 @@ In future want to add:
 1. Mix this loader with artwork ✅
 2. Downloader Audio ✅
 3. RPC for Discord
+4. Make little bit greater UI
