@@ -10,11 +10,8 @@ Installation Guide:
 4. Enjoy.
 
 --------------------
-Ru Menu:
 
-U can see him in Russian Branch
-
-Eng Menu:
+Example Eng Menu:
 
 ![image](https://github.com/user-attachments/assets/74df3599-98cb-4170-8a97-6aba9e06deee)
 
